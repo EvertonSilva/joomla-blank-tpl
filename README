@@ -1,7 +1,14 @@
 # Joomla Blank Template
 
 ## Overview
-Basic to start a Joomla 1.6+ site template.
+Basic to start a Joomla 1.6+ site template. To complete the template structure, Create the follow files and folders:
+  - images/                 **folder to hold all images used by the template
+  - languages/              **folder to hold language files
+  - favicon.ico             **your site favicon
+  - template_thumbnails.png  **an image of 205 x 150 for a thumbnail of your template
+  - template_preview.png     **an image of 595 x 570  for a preview of your template
+
+More info http://docs.joomla.org/Template_Development
 
 ## License
 Copyright 2012 Expert Solutions, Inc.

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.6//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="2.5" type="template" client="site">
+	
+	<!-- Meta informacao sobre o template-->
+	<name>template name</name>
+	<creationDate>dd/mm/aaaa</creationDate>
+	<author>Author</author>
+	<authorEmail>author@email-com</authorEmail>
+	<authorUrl>http://www.authorsite.com</authorUrl>
+	<copyright>Copyright (C) Year Company, Inc. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<version>2.5.0</version>
+	<description>desc</description>
+	
+	<!-- Descricao dos arquivos e pastas que fazem parte do template do template -->
+	<files>
+		<folder>css</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+		<folder>language</folder>
+		<filename>component.php</filename>
+		<filename>error.php</filename>
+		<filename>offline.php</filename>
+		<filename>favicon.ico</filename>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>template_preview.png</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+	
+	<!-- Definicao dos positions do template -->
+	<positions>
+		<position></position>
+		<position></position>
+		<position></position>
+		<position></position>
+		<position></position>
+	</positions>
+	
+	<!-- Arquivos de idiomas -->
+	<languages folder="language">
+		<language tag="pt-BR">pt-BR/pt-BR.tpl_template-name.ini</language>
+		<language tag="pt-BR">pt-BR/pt-BR.tpl_template-name.sys.ini</language>
+	</languages>
+	
+	<!-- Configuracoes adicionais, parametros que podem ser definidos para configuracao ou customizacao do template -->
+	<config>
+	    <fields name="params">
+	    	<fieldset name="advanced">
+	    		<field	name="google_analitycs"
+	    			type="text"
+	    			label="TPL_TEMPLATE-NAME_FIELD_GA_LABEL"
+	    			description="TPL_TEMPLATE-NAME_FIELD_GA_DESC" />
+	    	</fieldset>
+	    </fields>
+	</config>
+</extension>

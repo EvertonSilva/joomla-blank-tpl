@@ -1,0 +1,441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"def?	defined(…)"
+			],
+			[
+				"if",
+				"ifx_byteasvarchar"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"writ",
+				"writeNumbers"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"bo",
+				"body_cod"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"num",
+				"num_likes"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"ass",
+				"asse	assertEquals"
+			],
+			[
+				"H",
+				"Html"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"run",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synta json",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntaxhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"syntahtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"syntjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"sytphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"Pre",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"synta",
+				"Set Syntax: JSON"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/everton/Público/repo/tpl-joomla/css/template.css",
+		"/home/everton/Público/repo/tpl-joomla/.gitignore",
+		"/home/everton/Público/repo/tpl-joomla/offline.php",
+		"/home/everton/Público/repo/tpl-joomla/component.php",
+		"/home/everton/Público/repo/tpl-joomla/error.php",
+		"/home/everton/Público/repo/tpl-joomla/index.php",
+		"/home/everton/Público/repo/tpl-joomla/templateDetails.xml",
+		"/home/everton/Público/repo/tpl-joomla/html/home/default.php",
+		"/home/everton/Público/repo/tpl-joomla/tpl-joomla.sublime-workspace",
+		"/home/everton/Público/repo/tpl-joomla/README",
+		"/home/everton/Público/repo/hello-node/hellotestapp.js",
+		"/home/everton/Público/repo/hello-node/helloserviceapp.js",
+		"/home/everton/Público/repo/hello-node/secondary.txt",
+		"/home/everton/Público/com_foxcontact_user/helpers/fdispatcher.php",
+		"/home/everton/Público/com_foxcontact_user/helpers/flanghandler.php",
+		"/home/everton/Público/com_foxcontact_user/helpers/fsession.php",
+		"/home/everton/Público/com_foxcontact_user/helpers/flogger.php",
+		"/home/everton/Público/com_foxcontact_user/helpers/fjmessenger.php",
+		"/home/everton/Público/com_foxcontact_user/helpers/fdatapump.php",
+		"/home/everton/Público/com_foxcontact_user/helpers/fsubmittermailer.php",
+		"/home/everton/Applications/Opera/opera-webbrowser.desktop",
+		"/home/everton/Applications/Opera/bin/opera",
+		"/home/everton/opera-12.12-1707.x86_64.linux/opera",
+		"/home/everton/opera-12.12-1707.x86_64.linux/install",
+		"/home/everton/Público/com_foxcontact/helpers/fsubmittermailer.php",
+		"/home/everton/Público/com_foxcontact/helpers/fdispatcher.php",
+		"/home/everton/Applications/opera-12.12-1707.x86_64.linux/install",
+		"/home/everton/Público/com_foxcontact/lib/loader.php",
+		"/home/everton/Público/com_foxcontact/helpers/fdatapump.php",
+		"/home/everton/Público/com_foxcontact/helpers/fsubmitter.php",
+		"/home/everton/Público/com_foxcontact/helpers/emailhelper.php",
+		"/home/everton/Público/com_foxcontact/sef_ext/com_foxcontact.php",
+		"/home/everton/Público/com_foxcontact/helpers/fmimetype.php",
+		"/home/everton/Público/com_foxcontact/foxcontact.inc",
+		"/home/everton/Público/com_foxcontact/foxcontact.php",
+		"/var/www/quantum",
+		"/home/everton/Público/360arquitetura/home/index.html",
+		"/home/everton/Público/360arquitetura/tema-wp/architekttheme/functions.php",
+		"/home/everton/Público/360arquitetura/tema-wp/architekttheme/index.php",
+		"/home/everton/Dropbox/bemvindo.txt",
+		"/home/everton/10gen/final-problem4/blog.py",
+		"/home/everton/10gen/final-problem4/views/entry_template.tpl",
+		"/home/everton/10gen/Q4-answer.json",
+		"/home/everton/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/everton/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/var/www/compra-coletiva/app/webroot/css/layout.css",
+		"/home/everton/Documentos/linterTest.js",
+		"/home/everton/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/var/www/compra-coletiva/index.php",
+		"/home/everton/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/everton/.config/sublime-text-2/Packages/User/Fetch.sublime-settings",
+		"/home/everton/.config/sublime-text-2/Packages/User/PHPUnit/classTest.sublime-snippet",
+		"/home/everton/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/var/www/compra-coletiva/app/View/Ofertas/index.ctp",
+		"/var/www/compra-coletiva/app/Controller/OfertasController.php",
+		"/home/everton/.config/sublime-text-2/Packages/CakePHP (Native)/CakePHP-Template.tmLanguage",
+		"/var/www/compra-coletiva/app/Model/oferta.php",
+		"/var/www/quantum/Include/menu.php",
+		"/home/everton/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/var/www/quantum/index.php",
+		"/home/everton/.config/sublime-text-2/Packages/Default/Preferences (Linux).sublime-settings",
+		"/home/everton/.config/sublime-text-2/Packages/Default/Preferences (Windows).sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Name",
+			"$PREFIX",
+			" [",
+			" ]",
+			"John",
+			"XXX",
+			"X",
+			"XXX",
+			"four",
+			"three",
+			"Doe",
+			"name",
+			"Everton",
+			"name",
+			"<li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"tpl-joomla.sublime-workspace"
+			],
+			[
+				"fdis",
+				"helpers/fdispatcher.php"
+			],
+			[
+				"helpsub",
+				"helpers/fsubmitter.php"
+			],
+			[
+				"help",
+				"helpers/fdatapump.php"
+			],
+			[
+				"helper",
+				"helpers/fsubmittermailer.php"
+			],
+			[
+				"/helper",
+				"helpers/emailhelper.php"
+			],
+			[
+				".php",
+				"helpers/fmimetype.php"
+			],
+			[
+				".css",
+				"app/webroot/css/layout.css"
+			],
+			[
+				"ofertas",
+				"app/View/Ofertas/index.ctp"
+			],
+			[
+				"controllerofer",
+				"app/Controller/OfertasController.php"
+			],
+			[
+				"controllerofert",
+				"app/Controller/OfertasController.php"
+			],
+			[
+				"ofertasindex",
+				"app/View/Ofertas/index.ctp"
+			],
+			[
+				"controlleroferta",
+				"app/Controller/OfertasController.php"
+			],
+			[
+				"modeloferta",
+				"app/Model/oferta.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true
+}
